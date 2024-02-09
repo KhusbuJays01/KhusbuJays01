@@ -12,7 +12,7 @@
 
 - 🌱 I’m learning *Research Methodologies and social professional project management*
 
-- 🔭 I’m Joining Job on [Smartacremadiasolutions Company](https://smartacremediasolutions.com/)
+- 🔭 I work at [Smartacremadiasolutions Company](https://smartacremediasolutions.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/KhusbuJays01](https://github.com/KhusbuJays01)
 
