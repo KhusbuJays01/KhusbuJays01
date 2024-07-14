@@ -1,4 +1,4 @@
-![logo](https://github.com/KhusbuJays01/KhusbuJays01/blob/main/software-development.png
+![logo](https://github.com/KhusbuJays01/KhusbuJays01/blob/main/software-development.png)
 
 <h1 align="center"> Hello👋 This is Khusbu Jayswal</h1>
 <h3 align="center">Currently I am 3rd Year student of Bsc.CS(Hons)& Software ENGINEER</h3>
