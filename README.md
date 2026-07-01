@@ -1,10 +1,6 @@
 <div align="center">
-
-<img src="YOUR_BANNER_URL" width="100%" alt="Banner"/>
-
-# 👋 Hello, I'm **Khusbu Jaiswal**
-
-### 🚀 Team Lead • Frontend Developer • WordPress Developer • UI/UX Designer
+    
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:67E8F9,50:38BDF8,100:3B82F6&text=Welcome%20to%20My%20GitHub&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Khusbu%20Jaiswal%20•%20Frontend%20Developer%20•%20Team%20Lead&descAlignY=60&descSize=20" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=1000&lines=👋+Welcome+to+My+GitHub+Profile!;💻+Team+Lead+at+SmartAcre+Media+Solution;🌐+Frontend+Developer;🎨+UI%2FUX+Designer;⚡+WordPress+Developer;📱+Flutter+Developer;🚀+Building+Modern+Digital+Experiences;💙+Thanks+for+Visiting+My+Profile!"/>
 
