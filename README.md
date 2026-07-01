@@ -25,8 +25,7 @@
 
 <td width="35%">
 
-<img src="https://raw.githubusercontent.com/KhusbuJays01/KhusbuJays01/main/images/profile.jpg" width="300" alt="Khusbu Jaiswal"/>
-
+<img src="https://www.magnific.com/photos/beautiful" width="300" alt="Khusbu Jaiswal"/>
 </td>
 
 <td width="65%">
