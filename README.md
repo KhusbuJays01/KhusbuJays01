@@ -25,7 +25,7 @@
 
 <td width="35%">
 
-<img src="https://www.magnific.com/photos/beautiful" width="300" alt="Khusbu Jaiswal"/>
+<img src="khusbu.jpg" width="300" alt="Khusbu Jaiswal"/>
 </td>
 
 <td width="65%">
