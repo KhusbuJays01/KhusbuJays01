@@ -1,37 +1,154 @@
-![logo](https://github.com/KhusbuJays01/KhusbuJays01/blob/main/software-development.png)
+<div align="center">
 
-<h1 align="center"> Hello👋 This is Khusbu Jayswal</h1>
-<h3 align="center">Currently I am 3rd Year student of Bsc.CS(Hons)& Software ENGINEER</h3>
+<img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="Banner"/>
 
-<img align="right" alt="coding" width= "400" src="https://www.bing.com/th/id/OGC.e17bbb588463ef6f4314a0ac3590d49d?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fQFAmltthDae8o%2fgiphy.gif&ehk=mQER26IyvOIu8gWqydVsY2km%2bxqOWi4Auz1w3HPfLOk%3d" >
+# 👋 Hello, I'm Khusbu Jaiswal
 
+### Team Lead • Frontend Developer • WordPress Developer • UI/UX Designer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khusbujays01&label=Profile%20views&color=0e75b6&style=flat" alt="khusbujays01" /> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&weight=600&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Leading+Development+Teams;Building+Modern+Web+Experiences;Frontend+Developer;WordPress+Expert;UI%2FUX+Designer;Always+Learning+Something+New" />
 
-- 🔭 I’m currently working on *KINBECH MOB APPLICATION AND DIGITAL RUBIK'S CUBE SOLUTION*
+<a href="https://github.com/KhusbuJays01">
+<img src="https://img.shields.io/github/followers/KhusbuJays01?style=for-the-badge"/>
+</a>
 
-- 🌱 I’m learning *Research Methodologies and social professional project management*
+<img src="https://komarev.com/ghpvc/?username=KhusbuJays01&style=for-the-badge&color=blue"/>
 
-- 🔭 I work at [Smartacremadiasolutions Company](https://smartacremediasolutions.com/)
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/KhusbuJays01](https://github.com/KhusbuJays01)
+---
 
-- 💬 Ask me about *HTML, CSS, PYTHON, FLUTTER, UX/UI, GRAPHIC DESIGNING, TRELLO, JIRA, FIGMA, CANVA*
+# 👩‍💻 About Me
 
-- 📫 How to reach me *khj98047@gmail.com*
+<table>
+<tr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkin.com/in/khusbu-jayswal-821602280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khusbu jayswal" height="30" width="40" /></a>
-<a href="https://fb.com/jayswal sweeti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jayswal sweeti" height="30" width="40" /></a>
-<a href="https://instagram.com/khusbujays01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khusbujays01" height="30" width="40" /></a>
+<td width="35%">
+
+<img src="YOUR_PHOTO_URL" width="300"/>
+
+</td>
+
+<td width="65%">
+
+## Khusbu Jaiswal
+
+💼 Team Lead at SmartAcre Media Solution
+
+🇳🇵 Bhaktapur, Nepal
+
+💙 Passionate about building beautiful digital experiences.
+
+Currently leading a team of developers while designing responsive websites, WordPress solutions, email marketing systems, and modern UI/UX interfaces.
+
+I enjoy solving complex problems with clean code, strong leadership, and thoughtful user experiences.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🚀 Professional Highlights
+
+🏆 Team Lead at SmartAcre Media Solution
+
+👩‍💻 2+ Years of Professional Experience
+
+👨‍💼 Leading 4–5 Developers
+
+📱 Flutter Developer
+
+🌐 WordPress Developer
+
+🎨 UI/UX Designer
+
+📧 Email Marketing Specialist
+
+💡 AI & Computer Vision Enthusiast
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Frameworks & Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khusbujays01&show_icons=true&locale=en&layout=compact" alt="khusbujays01" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=wordpress,flutter,firebase,git,github,vscode,figma"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khusbujays01&show_icons=true&locale=en" alt="khusbujays01" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khusbujays01&" alt="khusbujays01" /></p>
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KhusbuJays01&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhusbuJays01&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=KhusbuJays01&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Technology |
+|----------|------------|
+| 🧘 Yoga Posture Detection System | Flutter • Firebase • TensorFlow |
+| 🎓 Student Kiosk System | HTML • CSS • Oracle |
+| 🏨 Hotel Booking System | Java • MySQL |
+| 🚖 Taxi Booking System | Python • MySQL |
+
+---
+
+# 📜 Certifications
+
+🏅 Google UI/UX Professional Certificate
+
+🏅 Oracle Database Platform
+
+🏅 Programming Foundations with HTML, CSS & JavaScript
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:khj98047@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/KhusbuJays01">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💙 "Building software that creates impact."
+
+⭐ If you like my work, consider following my GitHub profile.
+
+</div>
