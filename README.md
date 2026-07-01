@@ -25,7 +25,7 @@
 
 <td width="35%">
 
-<img src="file:///C:/Users/samspc06/Downloads/khusbu.jpg" width="300"/>
+<img src="https://raw.githubusercontent.com/KhusbuJays01/KhusbuJays01/main/images/profile.jpg" width="300" alt="Khusbu Jaiswal"/>
 
 </td>
 
