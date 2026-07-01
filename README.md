@@ -22,20 +22,40 @@
 
 ## 👩‍💻 About Me
 
-<table> <tr> <td width="35%" align="center"> <img src="khusbu.jpg" width="250"/> <br><br>
-  
+<table>
+
+<tr>
+
+<td width="35%" align="center">
+
+<img src="khusbu.jpg" width="250"/>
+
+<br><br>
+
 ### 🌐 Connect
 
 <a href="https://www.linkedin.com/in/khusbu-jayswal-821602280">
-  <img src="https://skillicons.dev/icons?i=linkedin"/> </a>
-  <a href="mailto:khj98047@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a>
-  <a href="https://github.com/KhusbuJays01"> <img src="https://skillicons.dev/icons?i=github"/> </a>
-  <br><br>
-  <a href="https://khusbu01.com.np">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:khj98047@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/KhusbuJays01">
+    <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<br><br>
+
+<a href="https://khusbu01.com.np">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-blue?style=for-the-badge"/>
-    </a> </td>
-    <td width="65%">
-      
+</a>
+
+</td>
+
+<td width="65%">
+
 I'm **Khusbu Jaiswal**, a passionate **Team Lead**, **Frontend Developer**, **WordPress Developer**, and **UI/UX Designer** from **Bhaktapur, Nepal 🇳🇵**.
 
 Currently leading a development team at **SmartAcre Media Solution**, where I build responsive websites, WordPress solutions, landing pages, email templates, and modern user experiences.
@@ -52,16 +72,45 @@ Currently leading a development team at **SmartAcre Media Solution**, where I bu
 - 👨‍💼 Leading Development Teams
 - 📚 Always Learning New Technologies
 
----
 </td>
+
 </tr>
+
 </table>
+
+---
 
 # 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,flutter,firebase,wordpress,git,github,vscode,figma,aws"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,flutter,firebase,wordpress,figma,git,github,vscode,aws&perline=7"/>
+
+</div>
+
+<p align="center">
+
+Frontend • WordPress • Flutter • UI/UX • Python • Java • Firebase • AWS
+
+</p>
+
+---
+
+## 🚀 Expertise
+
+<div align="center">
+
+| 💼 Area | ⭐ Skills |
+|:-------:|:---------|
+| 🎨 Frontend | HTML5 • CSS3 • JavaScript • Responsive Design |
+| 🌐 CMS | WordPress Development • Elementor |
+| 📱 Mobile | Flutter • Firebase |
+| 🎯 UI/UX | Figma • Wireframing • Prototyping |
+| 💾 Database | MySQL |
+| 💻 Programming | Python • Java |
+| 🛠️ Tools | Git • GitHub • VS Code |
+| 📧 Marketing | Email Marketing |
+| 👥 Leadership | Team Lead • Project Coordination |
 
 </div>
 
