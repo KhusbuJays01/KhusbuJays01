@@ -102,16 +102,23 @@ I enjoy solving real-world problems through **clean code**, **creative design**,
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Overview
 
 <div align="center">
 
-### 📈 GitHub Statistics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KhusbuJays01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhusbuJays01&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhusbuJays01&theme=tokyonight"/>
 
 <br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhusbuJays01&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KhusbuJays01&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhusbuJays01&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhusbuJays01&theme=tokyonight&utcOffset=5.75"/>
+
+</div>
 
 ### 🔥 Contribution Streak
 
