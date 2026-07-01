@@ -106,19 +106,28 @@ I enjoy solving real-world problems through **clean code**, **creative design**,
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KhusbuJays01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+### 📈 GitHub Statistics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhusbuJays01&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KhusbuJays01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhusbuJays01&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
+### 🔥 Contribution Streak
+
+<img width="750" src="https://streak-stats.demolab.com?user=KhusbuJays01&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=KhusbuJays01&theme=tokyonight&no-frame=true&row=1&column=6"/>
+### 📈 Contribution Graph
+
+<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=KhusbuJays01&theme=tokyo-night&hide_border=true" />
+
+<br><br>
+
+### 🏆 GitHub Trophies
+
+<img width="900" src="https://github-profile-trophy.vercel.app/?username=KhusbuJays01&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
