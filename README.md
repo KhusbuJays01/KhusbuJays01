@@ -28,7 +28,7 @@
 
 <td width="35%" align="center">
 
-<img src="profile.jpg" width="250" alt="Khusbu Jaiswal"/>
+<img src="khusbu.jpg" width="250" alt="Khusbu Jaiswal"/>
 
 <br><br>
 
