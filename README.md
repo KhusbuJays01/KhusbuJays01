@@ -2,11 +2,11 @@
 
 <img src="YOUR_BANNER_URL" width="100%" alt="Banner"/>
 
-# 👋 Hi, I'm Khusbu Jaiswal
+# 👋 Hello, I'm Khusbu Jaiswal
 
-### 💙 Team Lead • Frontend Developer • WordPress Developer • UI/UX Designer
+### 🚀 Team Lead • Frontend Developer • WordPress Developer • UI/UX Designer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Team+Lead+at+SmartAcre+Media+Solution;Frontend+Developer;WordPress+Developer;Flutter+Developer;UI%2FUX+Designer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&weight=600&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=850&lines=Team+Lead+at+SmartAcre+Media+Solution;Frontend+Developer;WordPress+Developer;Flutter+Developer;UI%2FUX+Designer;Building+Modern+Digital+Experiences;Always+Learning+New+Technologies"/>
 
 <p>
 
@@ -14,7 +14,7 @@
 
 <img src="https://img.shields.io/github/followers/KhusbuJays01?style=for-the-badge&logo=github"/>
 
-<img src="https://img.shields.io/badge/🇳🇵-Bhaktapur%2C%20Nepal-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🇳🇵-Bhaktapur,%20Nepal-blue?style=for-the-badge"/>
 
 </p>
 
@@ -28,13 +28,13 @@
 
 <td width="35%" align="center">
 
-<img src="khusbu.jpg" width="250"/>
+<img src="profile.jpg" width="250" alt="Khusbu Jaiswal"/>
 
-<br>
+<br><br>
 
-### 💬 Let's Connect
+## 🌐 Connect
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/khusbu-jayswal-821602280" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -42,35 +42,47 @@
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/KhusbuJays01">
+<a href="https://github.com/KhusbuJays01" target="_blank">
 <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<br><br>
+
+<a href="https://khusbu01.com.np" target="_blank">
+
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-2563EB?style=for-the-badge"/>
+
 </a>
 
 </td>
 
 <td width="65%">
 
-## 🌸 About Me
+# 👩‍💻 About Me
 
-Hello! I'm **Khusbu Jaiswal**, a passionate **Team Lead** and **Frontend Developer** from **Bhaktapur, Nepal**.
+Hello! I'm **Khusbu Jaiswal**, a passionate **Team Lead** and **Frontend Developer** from **Bhaktapur, Nepal 🇳🇵**.
 
-I enjoy creating modern, responsive websites with clean UI/UX while mentoring developers and delivering high-quality digital solutions.
+Currently leading a team of developers at **SmartAcre Media Solution**, building responsive websites, WordPress solutions, landing pages, email templates, and modern UI/UX experiences.
 
-💼 Team Lead at SmartAcre Media Solution
+I enjoy solving real-world problems through **clean code**, **creative design**, and **effective leadership**.
 
-👩‍💻 2+ Years Professional Experience
+### 🌟 Professional Highlights
 
-🚀 Leading 4–5 Developers
+🚀 Team Lead
 
-🎨 UI/UX Enthusiast
+👨‍💼 Leading 4–5 Developers
 
-🌐 WordPress Expert
+💻 Frontend Development
 
-📱 Flutter Developer
+🌐 WordPress Development
 
-🤖 AI & Computer Vision Learner
+📱 Flutter Development
 
-📧 Email Marketing Specialist
+🎨 UI/UX Design
+
+📧 Email Marketing
+
+🤖 AI & Computer Vision
 
 </td>
 
@@ -106,22 +118,26 @@ I enjoy creating modern, responsive websites with clean UI/UX while mentoring de
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhusbuJays01&theme=tokyo-night&hide_border=true"/>
 
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=KhusbuJays01&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
 </div>
 
 ---
 
 # 🚀 Featured Projects
 
-| 🚀 Project | ⚡ Technology |
-|------------|--------------|
-| 🧘 Yoga Posture Detection & Correction | Flutter • Firebase • TensorFlow |
+| 🚀 Project | 🛠️ Technology |
+|------------|---------------|
+| 🧘 Yoga Posture Detection & Correction System | Flutter • Firebase • TensorFlow |
 | 🎓 Student Kiosk Management System | HTML • CSS • Oracle |
 | 🏨 Hotel Booking System | Java • MySQL |
 | 🚖 Taxi Booking System | Python • MySQL |
 
 ---
 
-# 🏆 Certifications
+# 📜 Certifications
 
 🏅 Google UI/UX Professional Certificate
 
@@ -137,21 +153,23 @@ I enjoy creating modern, responsive websites with clean UI/UX while mentoring de
 
 📚 Professional Project Management
 
-📚 Advanced Flutter
+📚 Flutter Advanced Concepts
 
 📚 AI & Machine Learning
 
 ---
 
-# 📫 Contact Me
+# 📬 Contact
 
-📧 **Email:** **khj98047@gmail.com**
+📧 **Email:** `khj98047@gmail.com`
 
-🌐 **Portfolio:** **https://khusbu01.com.np**
+💼 **LinkedIn:** https://www.linkedin.com/in/khusbu-jayswal-821602280
 
-💼 **GitHub:** **https://github.com/KhusbuJays01**
+🌐 **Portfolio:** https://khusbu01.com.np
 
-📍 **Bhaktapur, Nepal**
+💻 **GitHub:** https://github.com/KhusbuJays01
+
+📍 **Location:** Bhaktapur, Nepal
 
 ---
 
@@ -159,8 +177,8 @@ I enjoy creating modern, responsive websites with clean UI/UX while mentoring de
 
 ### 💙 Thanks for visiting my profile!
 
-*"Building beautiful digital experiences with clean code, thoughtful design, and strong leadership."*
+### ⭐ "Building modern digital experiences through clean code, thoughtful design, and strong leadership."
 
-⭐ Don't forget to follow if you like my work!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=120&section=footer"/>
 
 </div>
