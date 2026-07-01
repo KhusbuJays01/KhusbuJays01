@@ -112,11 +112,9 @@ I enjoy solving real-world problems through **clean code**, **creative design**,
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=KhusbuJays01&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhusbuJays01&theme=tokyo-night&hide_border=true"/>
 
 <br><br>
 
