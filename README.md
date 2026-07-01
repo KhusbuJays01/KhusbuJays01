@@ -87,9 +87,9 @@ I specialize in **Frontend Development, WordPress, UI/UX Design, Flutter, and Em
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KhusbuJays01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+username=KhusbuJays01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhusbuJays01&layout=compact&theme=tokyonight&hide_border=true"/>
+username=KhusbuJays01&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
