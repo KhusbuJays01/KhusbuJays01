@@ -2,19 +2,19 @@
 
 <img src="YOUR_BANNER_URL" width="100%" alt="Banner"/>
 
-# 👋 Hello, I'm Khusbu Jaiswal
+# 👋 Hello, I'm **Khusbu Jaiswal**
 
 ### 🚀 Team Lead • Frontend Developer • WordPress Developer • UI/UX Designer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&weight=600&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=850&lines=Team+Lead+at+SmartAcre+Media+Solution;Frontend+Developer;WordPress+Developer;Flutter+Developer;UI%2FUX+Designer;Building+Modern+Digital+Experiences;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=1000&lines=👋+Welcome+to+My+GitHub+Profile!;💻+Team+Lead+at+SmartAcre+Media+Solution;🌐+Frontend+Developer;🎨+UI%2FUX+Designer;⚡+WordPress+Developer;📱+Flutter+Developer;🚀+Building+Modern+Digital+Experiences;💙+Thanks+for+Visiting+My+Profile!"/>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=KhusbuJays01&style=for-the-badge&color=0e75b6"/>
 
-<img src="https://img.shields.io/github/followers/KhusbuJays01?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/KhusbuJays01?style=for-the-badge&logo=github&color=181717"/>
 
-<img src="https://img.shields.io/badge/📍-Bhaktapur,%20Nepal-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📍-Bhaktapur,%20Nepal-2563EB?style=for-the-badge"/>
 
 </div>
 
@@ -22,67 +22,40 @@
 
 ## 👩‍💻 About Me
 
-<table>
-
-<tr>
-
-<td width="35%" align="center">
-
-<img src="khusbu.jpg" width="250"/>
-
-<br><br>
-
+<table> <tr> <td width="35%" align="center"> <img src="khusbu.jpg" width="250"/> <br><br>
+  
 ### 🌐 Connect
 
 <a href="https://www.linkedin.com/in/khusbu-jayswal-821602280">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=linkedin"/> </a>
+  <a href="mailto:khj98047@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a>
+  <a href="https://github.com/KhusbuJays01"> <img src="https://skillicons.dev/icons?i=github"/> </a>
+  <br><br>
+  <a href="https://khusbu01.com.np">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-blue?style=for-the-badge"/>
+    </a> </td>
+    <td width="65%">
+      
+I'm **Khusbu Jaiswal**, a passionate **Team Lead**, **Frontend Developer**, **WordPress Developer**, and **UI/UX Designer** from **Bhaktapur, Nepal 🇳🇵**.
 
-<a href="mailto:khj98047@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+Currently leading a development team at **SmartAcre Media Solution**, where I build responsive websites, WordPress solutions, landing pages, email templates, and modern user experiences.
 
-<a href="https://github.com/KhusbuJays01">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<br><br>
-
-<a href="https://khusbu01.com.np">
-
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-blue?style=for-the-badge"/>
-
-</a>
-
-</td>
-
-<td width="65%">
-
-### Hi there 👋
-
-I'm **Khusbu Jaiswal**, a passionate **Team Lead** and **Frontend Developer** from Nepal.
-
-Currently leading a team at **SmartAcre Media Solution**, building responsive websites, WordPress solutions, landing pages, email templates and modern UI/UX experiences.
-
-### 💡 Highlights
+### 🌟 Professional Highlights
 
 - 🚀 Team Lead
-- 👨‍💻 2+ Years Experience
-- 👨‍💼 Leading 4–5 Developers
-- 🌐 WordPress Expert
 - 💻 Frontend Developer
+- 🌐 WordPress Developer
 - 📱 Flutter Developer
 - 🎨 UI/UX Designer
 - 📧 Email Marketing Specialist
 - 🤖 AI Enthusiast
-
-</td>
-
-</tr>
-
-</table>
+- 👨‍💼 Leading Development Teams
+- 📚 Always Learning New Technologies
 
 ---
+</td>
+</tr>
+</table>
 
 # 💻 Tech Stack
 
@@ -127,7 +100,7 @@ Currently leading a team at **SmartAcre Media Solution**, building responsive we
 | 🚀 Project | ⚙️ Technology |
 |------------|---------------|
 | 🧘 Yoga Posture Detection System | Flutter • Firebase • TensorFlow |
-| 🎓 Student Kiosk System | HTML • CSS • Oracle |
+| 🎓 Student Kiosk Management System | HTML • CSS • Oracle |
 | 🏨 Hotel Booking System | Java • MySQL |
 | 🚖 Taxi Booking System | Python • MySQL |
 
@@ -135,11 +108,9 @@ Currently leading a team at **SmartAcre Media Solution**, building responsive we
 
 # 🏆 Certifications
 
-✅ Google UI/UX Professional Certificate
-
-✅ Oracle Database Platform
-
-✅ Programming Foundations with HTML, CSS & JavaScript
+- ✅ Google UI/UX Professional Certificate
+- ✅ Oracle Database Platform
+- ✅ Programming Foundations with HTML, CSS & JavaScript
 
 ---
 
@@ -147,16 +118,16 @@ Currently leading a team at **SmartAcre Media Solution**, building responsive we
 
 - 📚 Research Methodologies
 - 📚 Professional Project Management
-- 📚 Flutter Advanced
+- 📚 Flutter Advanced Development
 - 📚 AI & Machine Learning
 
 ---
 
-# 📫 Contact
+# 📫 Connect With Me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge)](https://khusbu01.com.np)
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-2563EB?style=for-the-badge)](https://khusbu01.com.np)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khusbu%20Jaiswal-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khusbu-jayswal-821602280)
 
@@ -170,9 +141,9 @@ Currently leading a team at **SmartAcre Media Solution**, building responsive we
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+## 💙 Thanks for Visiting My GitHub Profile!
 
-> **"Building beautiful digital experiences through clean code, thoughtful design, and strong leadership."**
+### ⭐ *"Building modern digital experiences through clean code, thoughtful design, and strong leadership."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=120&section=footer"/>
 
