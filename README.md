@@ -25,7 +25,7 @@
 
 <td width="35%">
 
-<img src="YOUR_PHOTO_URL" width="300"/>
+<img src="sweety" width="300"/>
 
 </td>
 
