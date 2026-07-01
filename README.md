@@ -25,7 +25,7 @@
 
 <td width="35%">
 
-<img src="sweety.jpg" width="300"/>
+<img src="file:///C:/Users/samspc06/Downloads/sweety.jpg" width="300"/>
 
 </td>
 
