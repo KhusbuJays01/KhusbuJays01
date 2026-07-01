@@ -8,19 +8,19 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&weight=600&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=850&lines=Team+Lead+at+SmartAcre+Media+Solution;Frontend+Developer;WordPress+Developer;Flutter+Developer;UI%2FUX+Designer;Building+Modern+Digital+Experiences;Always+Learning+New+Technologies"/>
 
-<p>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=KhusbuJays01&style=for-the-badge&color=0e75b6"/>
 
 <img src="https://img.shields.io/github/followers/KhusbuJays01?style=for-the-badge&logo=github"/>
 
-<img src="https://img.shields.io/badge/🇳🇵-Bhaktapur,%20Nepal-blue?style=for-the-badge"/>
-
-</p>
+<img src="https://img.shields.io/badge/📍-Bhaktapur,%20Nepal-blue?style=for-the-badge"/>
 
 </div>
 
 ---
+
+## 👩‍💻 About Me
 
 <table>
 
@@ -28,13 +28,13 @@
 
 <td width="35%" align="center">
 
-<img src="khusbu.jpg" width="250" alt="Khusbu Jaiswal"/>
+<img src="khusbu.jpg" width="250"/>
 
 <br><br>
 
-## 🌐 Connect
+### 🌐 Connect
 
-<a href="https://www.linkedin.com/in/khusbu-jayswal-821602280" target="_blank">
+<a href="https://www.linkedin.com/in/khusbu-jayswal-821602280">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -42,15 +42,15 @@
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/KhusbuJays01" target="_blank">
+<a href="https://github.com/KhusbuJays01">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <br><br>
 
-<a href="https://khusbu01.com.np" target="_blank">
+<a href="https://khusbu01.com.np">
 
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-blue?style=for-the-badge"/>
 
 </a>
 
@@ -58,31 +58,23 @@
 
 <td width="65%">
 
-# 👩‍💻 About Me
+### Hi there 👋
 
-Hello! I'm **Khusbu Jaiswal**, a passionate **Team Lead** and **Frontend Developer** from **Bhaktapur, Nepal 🇳🇵**.
+I'm **Khusbu Jaiswal**, a passionate **Team Lead** and **Frontend Developer** from Nepal.
 
-Currently leading a team of developers at **SmartAcre Media Solution**, building responsive websites, WordPress solutions, landing pages, email templates, and modern UI/UX experiences.
+Currently leading a team at **SmartAcre Media Solution**, building responsive websites, WordPress solutions, landing pages, email templates and modern UI/UX experiences.
 
-I enjoy solving real-world problems through **clean code**, **creative design**, and **effective leadership**.
+### 💡 Highlights
 
-### 🌟 Professional Highlights
-
-🚀 Team Lead
-
-👨‍💼 Leading 4–5 Developers
-
-💻 Frontend Development
-
-🌐 WordPress Development
-
-📱 Flutter Development
-
-🎨 UI/UX Design
-
-📧 Email Marketing
-
-🤖 AI & Computer Vision
+- 🚀 Team Lead
+- 👨‍💻 2+ Years Experience
+- 👨‍💼 Leading 4–5 Developers
+- 🌐 WordPress Expert
+- 💻 Frontend Developer
+- 📱 Flutter Developer
+- 🎨 UI/UX Designer
+- 📧 Email Marketing Specialist
+- 🤖 AI Enthusiast
 
 </td>
 
@@ -102,39 +94,29 @@ I enjoy solving real-world problems through **clean code**, **creative design**,
 
 ---
 
-## 📊 GitHub Overview
+# 📊 GitHub Analytics
 
 <div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KhusbuJays01&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhusbuJays01&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=KhusbuJays01&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhusbuJays01&theme=tokyo-night&hide_border=true"/>
+
+<br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhusbuJays01&theme=tokyonight"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhusbuJays01&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KhusbuJays01&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhusbuJays01&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhusbuJays01&theme=tokyonight&utcOffset=5.75"/>
-
-</div>
-
-### 🔥 Contribution Streak
-
-<img width="750" src="https://streak-stats.demolab.com?user=KhusbuJays01&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-### 📈 Contribution Graph
-
-<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=KhusbuJays01&theme=tokyo-night&hide_border=true" />
-
-<br><br>
-
-### 🏆 GitHub Trophies
-
-<img width="900" src="https://github-profile-trophy.vercel.app/?username=KhusbuJays01&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=KhusbuJays01&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -142,48 +124,47 @@ I enjoy solving real-world problems through **clean code**, **creative design**,
 
 # 🚀 Featured Projects
 
-| 🚀 Project | 🛠️ Technology |
+| 🚀 Project | ⚙️ Technology |
 |------------|---------------|
-| 🧘 Yoga Posture Detection & Correction System | Flutter • Firebase • TensorFlow |
-| 🎓 Student Kiosk Management System | HTML • CSS • Oracle |
+| 🧘 Yoga Posture Detection System | Flutter • Firebase • TensorFlow |
+| 🎓 Student Kiosk System | HTML • CSS • Oracle |
 | 🏨 Hotel Booking System | Java • MySQL |
 | 🚖 Taxi Booking System | Python • MySQL |
 
 ---
 
-# 📜 Certifications
+# 🏆 Certifications
 
-🏅 Google UI/UX Professional Certificate
+✅ Google UI/UX Professional Certificate
 
-🏅 Oracle Database Platform
+✅ Oracle Database Platform
 
-🏅 Programming Foundations with HTML, CSS & JavaScript
+✅ Programming Foundations with HTML, CSS & JavaScript
 
 ---
 
 # 🌱 Currently Learning
 
-📚 Research Methodologies
-
-📚 Professional Project Management
-
-📚 Flutter Advanced Concepts
-
-📚 AI & Machine Learning
+- 📚 Research Methodologies
+- 📚 Professional Project Management
+- 📚 Flutter Advanced
+- 📚 AI & Machine Learning
 
 ---
 
-# 📬 Contact
+# 📫 Contact
 
-📧 **Email:** `khj98047@gmail.com`
+<div align="center">
 
-💼 **LinkedIn:** https://www.linkedin.com/in/khusbu-jayswal-821602280
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge)](https://khusbu01.com.np)
 
-🌐 **Portfolio:** https://khusbu01.com.np
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khusbu%20Jaiswal-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khusbu-jayswal-821602280)
 
-💻 **GitHub:** https://github.com/KhusbuJays01
+[![GitHub](https://img.shields.io/badge/GitHub-KhusbuJays01-181717?style=for-the-badge&logo=github)](https://github.com/KhusbuJays01)
 
-📍 **Location:** Bhaktapur, Nepal
+[![Email](https://img.shields.io/badge/Email-khj98047%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:khj98047@gmail.com)
+
+</div>
 
 ---
 
@@ -191,7 +172,7 @@ I enjoy solving real-world problems through **clean code**, **creative design**,
 
 ### 💙 Thanks for visiting my profile!
 
-### ⭐ "Building modern digital experiences through clean code, thoughtful design, and strong leadership."
+> **"Building beautiful digital experiences through clean code, thoughtful design, and strong leadership."**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=120&section=footer"/>
 
